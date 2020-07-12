@@ -5,7 +5,7 @@ I am undergraduate Computer Science student at IIIT Sri City.
 ## What I do?
 
 - I develop web/mobile apps using ![](assets/flutter.png) Flutter.
-- I create <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/django/django-plain.svg" height=14> web/API back-end servers.
+- I create <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/django/django-plain.svg" height=14 style="vertical-align: sub;"> web/API back-end servers.
 - I occasionaly participate in programming competetions on [codeforces]() and [codechef](https://www.codechef.com/users/masterashu).
 
 ## My Interests
