@@ -14,7 +14,7 @@ I love checking out new frameworks/laguages/tools.
 
 ## Showcases
 
-![](https://pub.dev/static/img/pub-dev-logo-2x.png)  
+![](assets/pub.dev.png)  
 I published the following pacakges to [pub.dev](https://pub.dev):
 
 - [svg_path_parser](https://github.com/masterashu/svg_path_parser)
